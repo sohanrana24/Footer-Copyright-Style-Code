@@ -1,0 +1,3 @@
+<p>Copyright © 2025 <a href='https://www.sohanrana.com/' style="color: blue;">Sohan Rana</a> All Right Reserved</p>
+<div style='font-size:1px!important; opacity:0!important;'></div>
+Design by - <a href="https://sohanrana.com" title='Sohan Rana' target="_blank" style="color: blue;">Sohan Rana</a>
